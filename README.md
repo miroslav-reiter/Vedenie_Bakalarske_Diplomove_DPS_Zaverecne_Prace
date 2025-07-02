@@ -12,7 +12,7 @@
 Všetky dokumenty sú tu na **GitHube** v **[priečinku Dokumenty](https://github.com/miroslav-reiter/Vedenie_Bakalarske_Diplomove_Prace/tree/main/Dokumenty)**
 
 Poprosím vás, aby ste si dôkladne preštudovali obsah tohto repozitára. Za každý semester/polrok je potrebné odovzdať príslušnú časť záverečnej práce (Bc./Mgr./Ing./DPŠ). 
-Dôležitá je systematická práca pre vytvorenie kvalitného výstupu, ktorý môžete použiť do svojho portóflia. Chceme sa vyhnúť situáciam typu, že všetko chcete spracovať a stihnúť pár dní pred odovzdaním.
+Dôležitá je systematická práca pre vytvorenie kvalitného výstupu, ktorý môžete použiť do svojho portfólia. Chceme sa vyhnúť situáciám typu, že všetko chcete spracovať a stihnúť pár dní pred odovzdaním.
 Súčasťou hodnotenia je aj spolupráca školiteľa so študentom, jeho angažovanosť a aktivita pri písaní záverečnej práce, ktorá sa dáva do posudku.
 
 ## 🎓 Bakalárska práca (Bc.)
