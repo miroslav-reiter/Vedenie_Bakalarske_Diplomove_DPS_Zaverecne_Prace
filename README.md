@@ -1,5 +1,5 @@
 # 📔 Vedenie Bakalárske, Diplomové a Záverečné DPŠ Práce
-* Konzultácie a online kurz Vedenie bakalárskych, diplomových a DPŠ prác
+* Konzultácie a online kurz Vedenie bakalárskych, diplomových a DPŠ záverečných prác
 * Univerzita Komenského v Bratislave Fakulta managementu UK FM, Vysoká škola DTI
 * Prednášajúci: RNDr. PhDr. Ing. Mgr. et Mgr. Miroslav Reiter, PhD., DiS., MBA, MPA, MSC, DBA, Ing. Paed. IGIP 
 * Kontakt: riaditel@itacademy.sk | miroslav.reiter@fm.uniba.sk
