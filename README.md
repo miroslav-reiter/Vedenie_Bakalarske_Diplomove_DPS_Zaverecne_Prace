@@ -13,7 +13,8 @@ Všetky dokumenty sú tu na **GitHube** v **[priečinku Dokumenty](https://githu
 
 Poprosím vás, aby ste si **dôkladne preštudovali obsah tohto repozitára**. Za každý semester/polrok je potrebné odovzdať príslušnú časť záverečnej práce (Bc./Mgr./Ing./DPŠ). 
 Dôležitá je systematická práca pre vytvorenie kvalitného výstupu, ktorý môžete použiť do svojho portfólia. Chceme sa vyhnúť situáciám typu, že všetko chcete spracovať a stihnúť pár dní pred odovzdaním.
-Súčasťou hodnotenia je aj spolupráca školiteľa so študentom, jeho angažovanosť a aktivita pri písaní záverečnej práce, ktorá sa dáva do posudku.
+
+Súčasťou hodnotenia je aj spolupráca školiteľa so študentom, jeho angažovanosť a aktivita pri písaní záverečnej práce, ktorá sa dáva do posudku. Výkazy konzultácii si študent vedie sám a na konci semestra ho po kontrole podpisujem.
 **Treba si hlavne uvedomiť, že ide o vašu záverečnú prácu a vizitku.** Vaša bakalárska alebo diplomová práca bude na večné veky uložená v centrálnom registri záverečných prác CRZP.
 
 ## 🎓 Bakalárska práca (Bc.)
