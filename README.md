@@ -113,6 +113,19 @@ Gavora, Peter a kol. 2010. Elektronická učebnica pedagogického výskumu. [onl
 [YouTube kanál Miroslav Reiter VITA Academy](https://www.youtube.com/playlist?list=PLIu_ZdHo7Pk8WX2UPhxZaQW0SOZnED1sY)
 
 ## 🎖️ Témy zaverečných prác
+### 2025-2026
+1. Remarketing na sociálnych sieťach vo vybranom podniku
+1. Možnosti využitia TikTok vo vybranom podniku v oblasti marketingovej komunikácie
+1. Využitie umelej inteligencie v reklamných kampaniach na sociálnych sieťach
+1. Možnosti využitia ChatGPT v podmienkach vybraného podniku pri tvorbe a optimalizácii marketingového obsahu 
+1. Využitie umelej inteligencie v marketingovej stratégii vybraného podniku
+1. Budovanie značky prostredníctvom videomarketingu na platforme YouTube
+1. Možnosti využitia metodiky Share of Search pri analýze trhu a konkurencie
+1. Využitie SEO pluginov vo WordPress a WooCommerce vo vybranom podniku
+1. Možnosti využitia Topic Cluster SEO stratégie vo vybranom podniku
+1. Webová analytika v Google Analytics 4 vo vybranom podniku
+1. Automatizácia predajných procesov s využitím CRM systému vo vybranom podniku
+
 ### 2024-2025
 Diplomové práce:
 1. User Experience optimalizácia webstránky vo WordPresse (User Experience optimization of a website in WordPress)
