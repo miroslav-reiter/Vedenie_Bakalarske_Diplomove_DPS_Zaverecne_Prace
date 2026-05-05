@@ -127,8 +127,8 @@ Gavora, Peter a kol. 2010. Elektronická učebnica pedagogického výskumu. [onl
 1. Vplyv e-learningu na motiváciu a študijné výsledkyžiakov stredných odborných škôl 
 1. Využitie umelej inteligencie vo vzdelávacom procese SOŠ žiakov
 
-**UK FM**
-Budú oznámené
+**UK FM**  
+Budú oznámené  
 
 ### 2025-2026
 1. Remarketing na sociálnych sieťach vo vybranom podniku
