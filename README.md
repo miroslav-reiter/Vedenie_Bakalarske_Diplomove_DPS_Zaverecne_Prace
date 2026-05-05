@@ -93,7 +93,7 @@ Krátka odpoveď: **všetko** a **všetko, čo ste nestihli za 1. semester dokon
 3. Štruktúrovať celý dokument cez **Nadpisy** (N1-H1) a **podnadpisy** (N2-H2). Boh chráň robiť obsah cez písanie bodiek...
 4. Obrázkom, tabuľkam, grafov dávať popis cez funkciu **Vložiť Popis** (Pravé tlačidlo myši na obrázok, nie manuálne)
 5. Ukladajte si priebežne všetky podklady, konzultácie a verzie práce do cloudového úložiska (napr. Microsoft OneDrive, Google Drive), aby ste predišli strate dát
-6. Treba si uvedomiť, že to je vaša záverečná práca a vaša vizitka. Preto odporúčam pristupovať k napísaniu práce seri=ozne. Vy musíte napísať a vytvoriť záverečnú prácu. To isté kontrola pravopisu, gramatiku a štylistiky vrátane korektúr. Mojou úlohou je vás viesť, dať odporúčania a nasmerovať vás.
+6. Treba si uvedomiť, že to je vaša záverečná práca a vaša vizitka. Preto odporúčam pristupovať k napísaniu práce seriózne. Vy musíte napísať a vytvoriť záverečnú prácu. To isté kontrola pravopisu, gramatiku a štylistiky vrátane korektúr, je to vašou úlohou. Mojou úlohou je vás viesť, dať odporúčania a nasmerovať vás.
 
 ## 🧪 Hypotézy
 Hypotéza je výskumný predpoklad. To znamená, že vyjadruje, čo si **vy osobne myslíte o danej problematike a probléme**. Vyjadruje určitý **názor výskumníka**.
