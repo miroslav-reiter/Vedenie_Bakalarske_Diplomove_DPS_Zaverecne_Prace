@@ -1,11 +1,11 @@
 # 📔 Vedenie Bakalárske, Diplomové a Záverečné DPŠ Práce
 * Konzultácie a online kurz Vedenie bakalárskych, diplomových a DPŠ záverečných prác
 * Univerzita Komenského v Bratislave Fakulta managementu UK FM, Vysoká škola DTI
-* Prednášajúci: RNDr. PhDr. Ing. Mgr. et Mgr. et Mgr. Miroslav Reiter, PhD., DiS., MBA, DBA, MPA, DPA, MSc., DSc., Ing. Paed. IGIP 
+* Prednášajúci: RNDr. PhDr. Ing. Mgr. et Mgr. et Mgr. Miroslav Reiter, PhD. et PhD., DiS., MBA, DBA, MPA, DPA, MSc., DSc., Ing. Paed. IGIP 
 * Kontakt: riaditel@itacademy.sk | miroslav.reiter@fm.uniba.sk
 
 # 📑 Požiadavky na spracovanie a odovzdanie záverečnej práce (Bc. / Mgr. a Ing. / DPŠ)
-🔔 Dôležité: **Študent je povinný samostatne sledovať aktuálny harmonogram štúdia** a všetky **oficiálne termíny** na stránke FM UK ale DTI.  
+🔔 Dôležité: **Študent je povinný samostatne sledovať aktuálny harmonogram štúdia** a všetky **oficiálne termíny** priamo na stránke FM UK alebo DTI. Ako **1. krok** si treba preštudovať **smernicu príslušnej vysokej školy s pravidlami spracovaniu záverečných prácu** a **manuál k spracovaniu záverečnej práce**. Tie nájdete priamo na oficálnych stránkach danej vysokej školy a to [**UK FM Legilastíva**](https://www.fm.uniba.sk/o-fakulte/legislativa/) alebo [**DTI Dokumenty**](https://www.dti.sk/p/15-dokumenty)  
 👉 UK FM: https://www.fm.uniba.sk/studentsky-servis/harmonogram-studia-pre-bakalarsky-a-magistersky-stupen    
 👉 DTI: https://www.dti.sk/p/9-harmonogram-akademickeho-roka-2024-2025    
 
@@ -115,6 +115,21 @@ Gavora, Peter a kol. 2010. Elektronická učebnica pedagogického výskumu. [onl
 [YouTube kanál Miroslav Reiter VITA Academy](https://www.youtube.com/playlist?list=PLIu_ZdHo7Pk8WX2UPhxZaQW0SOZnED1sY)
 
 ## 🎖️ Témy zaverečných prác
+
+### 2026-2027
+**DTI**
+1. Rozvoj kompetencií učiteľov stredných odborných škôl v oblasti digitálneho a online vzdelávania 
+1. Didaktické možnosti využitia digitálnych technológií vo vyučovaní technických predmetov SOŠ
+1. Prepojenie profesijného vzdelávania s požiadavkami trhu práce v Slovenskej republike 
+1. Hodnotenie výkonu žiakov v online vzdelávacom prostredí SOŠ
+1. Digitálna gramotnosť žiakov SOŠ v kontexte požiadaviek trhu práce 
+1. Gamifikácia ako nástroj zvyšovania angažovanosti žiakov v technickom vzdelávaní SOŠ
+1. Vplyv e-learningu na motiváciu a študijné výsledkyžiakov stredných odborných škôl 
+1. Využitie umelej inteligencie vo vzdelávacom procese SOŠ žiakov
+
+**UK FM**
+Budú oznámené
+
 ### 2025-2026
 1. Remarketing na sociálnych sieťach vo vybranom podniku
 1. Možnosti využitia TikTok vo vybranom podniku v oblasti marketingovej komunikácie
