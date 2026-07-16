@@ -128,7 +128,16 @@ Gavora, Peter a kol. 2010. Elektronická učebnica pedagogického výskumu. [onl
 1. Využitie umelej inteligencie vo vzdelávacom procese SOŠ žiakov
 
 **UK FM**  
-Budú oznámené  
+1. Návrh a implementácia stratégie generatívnej umelej inteligencie v marketingovej komunikácii vybraného podniku (Design and Implementation of a Generative Artificial Intelligence Strategy in the Marketing Communication of a Selected Company)
+1. Optimalizácia online marketingových kampaní s využitím webovej analytiky (Optimization of Online Marketing Campaigns Using Web Analytics)
+1. Možnosti využitia marketingovej automatizácie pri riadení zákazníckej cesty vo vybranom podniku (Possibilities of Using Marketing Automation in Customer Journey Management in a Selected Company)
+1. Analýza a optimalizácia konverzného pomeru webovej stránky vybraného podniku (Analysis and Optimization of the Conversion Rate of a Selected Company’s Website)
+1. Využitie dát prvej strany pri personalizácii digitálnej marketingovej komunikácie (Use of First-Party Data in the Personalization of Digital Marketing Communication)
+1. Návrh stratégie optimalizácie obsahu pre vyhľadávače založené na umelej inteligencii (Proposal of a Content Optimization Strategy for Artificial Intelligence-Based Search Engines)
+1. Využitie chatbotov s umelou inteligenciou v zákazníckej komunikácii vybraného podniku (Use of Artificial Intelligence Chatbots in the Customer Communication of a Selected Company)
+1. Analýza zákazníckej skúsenosti v elektronickom obchode a návrh možností jej zlepšenia (Analysis of Customer Experience in E-Commerce and Proposal of Improvement Opportunities)
+1. Možnosti využitia sociálneho predaja pri budovaní vzťahov so zákazníkmi vo vybranom podniku (Possibilities of Using Social Selling to Build Customer Relationships in a Selected Company)
+1. Analýza digitálnej prístupnosti webového sídla vybraného podniku podľa WCAG (Analysis of the Digital Accessibility of a Selected Company’s Website According to WCAG)
 
 ### 2025-2026
 1. Remarketing na sociálnych sieťach vo vybranom podniku
